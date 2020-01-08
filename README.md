@@ -204,7 +204,7 @@ def fifo(FIFO_ARGS):
 
 ## Step 4: Finalizing the Repository
 
-- Update the [Test Requirements](test_requirements.txt) file for any additional packages used
+- Update the [Requirements](requirements.txt) file for any additional packages used
 - Include any supporting documents if necessary
 
 ## Limitations
